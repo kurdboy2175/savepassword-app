@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696704131165",
+    "project_id": "save-password-593fa",
+    "storage_bucket": "save-password-593fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696704131165:android:4efc9dc6c405ee7f152db4",
+        "android_client_info": {
+          "package_name": "com.example.saved_pass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696704131165-gib601ugthe2i5t0l86o0nmvstk3fsbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIFfAIp3ZRQ1SOTVVP2NrlNtSGUv6miRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696704131165-gib601ugthe2i5t0l86o0nmvstk3fsbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
